@@ -1,4 +1,4 @@
-# Matriz de Cumplimiento: ISO/IEC 27001:2013
+# Matriz de Cumplimiento: ISO/IEC 27001
 
 **Proyecto:** Critical Health Infrastructure Hardening
 **Alcance:** Servidores de Aplicación HCE (Historia Clínica Electrónica)
@@ -21,4 +21,5 @@ Documentar la trazabilidad entre los controles técnicos implementados en el scr
 La configuración base del servidor ("Golden Image") cumple con los requisitos fundamentales de control de acceso y seguridad de redes exigidos por la norma para el manejo de información sensible.
 
 ---
+
 *Revisado por: Oficial de Seguridad de la Información (CISO)*
